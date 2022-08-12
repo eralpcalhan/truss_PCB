@@ -18,6 +18,8 @@ HX711 sensorArray[7];
 
 
 void setup() {
+  pinMode(A1, OUTPUT);
+  digitalWrite(A1, HIGH);
   Serial.begin(57600);
   while (!Serial){
     delay(10);
