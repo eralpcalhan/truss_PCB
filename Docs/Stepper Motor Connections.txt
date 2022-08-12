@@ -1,0 +1,9 @@
+green and blue are negative
+red and black are positive
+
+
+DRV8835 Stepper Motor Connections
+A1 - Black
+A2 - Green
+B1 - Red
+B2 - Blue

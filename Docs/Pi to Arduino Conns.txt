@@ -1,0 +1,10 @@
+Fan:
+Pin 2: 5V
+Pin 6: Ground
+
+Arduino:
+Pin 1: 3.3V
+Pin 8: TX
+Pin 10: RX
+Pin 12: PCM_Clk -> RST (Arduino)
+Pin 14: GND
